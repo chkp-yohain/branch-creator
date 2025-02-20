@@ -1,6 +1,6 @@
 # Branch Creator
 
-This is a simple app designed to quickly create app for Avanan repos with correctly formatted branch names.
+This is a simple app designed to quickly create app with correctly formatted branch names.
 
 
 ## Installation
